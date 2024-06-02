@@ -1,0 +1,24 @@
+{'I/E': 0.838261855857949,
+ 'N/S': 0.8334590754002018,
+ 'T/F': 0.843029629418424,
+ 'P/J': 0.7671663387858043}
+total: 0.8204792248655948
+
+I: Precision: 0.91353383       Recall: 0.94580838       
+E: Precision: 0.80946746      Recall: 0.69371197
+I/E: Precision: 0.86150065      Recall: 0.81976018
+N: Precision: 0.94934037       Recall: 0.96203209       
+S: Precision: 0.76831683      Recall: 0.66211604
+N/S: Precision: 0.85882860      Recall: 0.81207406
+T: Precision: 0.79341452       Recall: 0.89198783       
+F: Precision: 0.90313253      Recall: 0.79609176
+T/F: Precision: 0.84827353      Recall: 0.84403979
+J: Precision: 0.70657016       Recall: 0.74297424       
+P: Precision: 0.83032491      Recall: 0.79067991
+P/J: Precision: 0.76844753      Recall: 0.76682707
+
+---------Test-5-epoch-测试集----
+
+生成长度-10
+温度0.90
+其他默认
