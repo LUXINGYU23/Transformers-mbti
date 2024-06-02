@@ -11,6 +11,5 @@ Please follow the steps below to
 3. Determine T/F
 4. Determine J/P
 ######Output Format#####
-Only output MBTI prediction results separated by ","
-EXAMPLE-------->YOU OUTPUT-------->[E,N,T,P]
+
 ############INPUT##################
