@@ -1,11 +1,4 @@
-//设计一个程序，读取一个叫做generated_predictions.jsonl的文件，其每行内容格式为
-//{"label": "I,N,F", "predict": "I,N,F,P"}
-//其中label是真实标签，predict是预测标签。
-//程序需要读取predict的前四个大写字符，然后将其按照cvs格式输出到一个叫做transformed_predictions.csv的文件中。
-//例如，如果predict是"I,N,F,P,J"，那么输出应该是"I,N,F,P"
-//例如，如果predict是"I,N,F,P,I,N,P"，那么输出应该是"I,N,F,P"
-//例如，如果predict是"I,N,F,P"，那么输出应该是"I,N,F,P"
-//C语言实现
+//用于模型输出内容转换切割为评估可用结果
 #include <stdio.h>
 #include <string.h>
 
